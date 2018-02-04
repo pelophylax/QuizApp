@@ -1,0 +1,79 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+    <string name="introduction_text">Dear medical enthusiasts! Do you really know the pathology of the human body? Let\'s see how you can handle these 10 tricky questions.</string>
+    
+    <string name="question1">Question 1:</string>
+    <string name="question1_body">Pernicious anaemia</string>
+    <string name="question1_checkbox1">is caused by vitamin B12 deficiency</string>
+    <string name="question1_checkbox2">is typically associated with the presence of microcytes in the peripheral blood</string>
+    <string name="question1_checkbox3">is a hemolytic anaemia</string>
+    <string name="question1_checkbox4">is often associated with autoimmunity</string>
+    
+    <string name="question2">Question 2:</string>
+    <string name="question2_body">Post-infarction septal defect leads to</string>
+    <string name="question2_radio1">left-to-right shunt</string>
+    <string name="question2_radio2">right-to-left shunt</string>
+    <string name="question2_radio3">central type of cyanosis</string>
+    <string name="question2_radio4">diastolic failure</string>
+
+    <string name="question3">Question 3:</string>
+    <string name="question3_body">How many chromosomes can be seen in a cell of a patient with Klinefelter\'s syndorome?</string>
+    <string name="question3_hint">Number of chromosomes</string>
+
+    <string name="question4">Question 4:</string>
+    <string name="question4_body">Bronchial asthma attack causes respiratory insufficiency through which of the following pathogenic mechanism</string>
+    <string name="question4_radio1">perfusion defect</string>
+    <string name="question4_radio2">alveolar hypoventilation</string>
+    <string name="question4_radio3">pulmonary shunt</string>
+    <string name="question4_radio4">gas diffusion block</string>
+
+    <string name="question5">Question 5:</string>
+    <string name="question5_body">Carcinoid tumor of the intestine is characterized by the production of</string>
+    <string name="question5_radio1">catecholamines</string>
+    <string name="question5_radio2">histamine</string>
+    <string name="question5_radio3">serotonin</string>
+    <string name="question5_radio4">bradykinine</string>
+
+    <string name="question6">Question 6:</string>
+    <string name="question6_body">Dehydratation leads to</string>
+    <string name="question6_radio1">decrease of plasma osmolality</string>
+    <string name="question6_radio2">decrease of central venous pressure</string>
+    <string name="question6_radio3">decrease secretion of antidiuretic hormone</string>
+    <string name="question6_radio4">decrease concentration of urine</string>
+
+    <string name="question7">Question 7:</string>
+    <string name="question7_body">Higher plasmatic concentration of urea</string>
+    <string name="question7_checkbox1">interferes with the function of some neurotransmitters</string>
+    <string name="question7_checkbox2">causes pulmonary hypertension</string>
+    <string name="question7_checkbox3">increase plasma osmolality</string>
+    <string name="question7_checkbox4">increase the osmolality of intracellular environment</string>
+
+    <string name="question8">Question 8:</string>
+    <string name="question8_body">Risk facktor of osteoporosis include following endocrinopathies</string>
+    <string name="question8_checkbox1">hypogonadism</string>
+    <string name="question8_checkbox2">Cushing\'s syndrome</string>
+    <string name="question8_checkbox3">hyperparathyroidism</string>
+    <string name="question8_checkbox4">hyperthyroidism</string>
+
+    <string name="question9">Question 9:</string>
+    <string name="question9_body">Which of the following is a neuro-muscular junction neurotransmitter</string>
+    <string name="question9_radio1">serotonin</string>
+    <string name="question9_radio2">dopamine</string>
+    <string name="question9_radio3">acetylcholine</string>
+    <string name="question9_radio4">gamma-aminobutyric acid</string>
+
+    <string name="question10">Question 10:</string>
+    <string name="question10_body">The gene frequently mutated (inactivated) in tumors is</string>
+    <string name="question10_radio1">gene for protein p53</string>
+    <string name="question10_radio2">gene for protein Rb</string>
+    <string name="question10_radio3">gene for cyclin D1</string>
+    <string name="question10_radio4">gene fo cdk4 kinase</string>
+
+    <string name="ending_text">Congratulations! You reached the end of this insanely hard test. If you click on the EVALUATE button bellow you\'ll see how many of these unpleasant questions were a piece of cake for you.</string>
+
+    <string name="questions_answered"><xliff:g id="printScore" example="3">%d</xliff:g>/10 questions correct!</string>
+
+    <string name="evaluation_toast">Congratulations! You have <xliff:g id="printScore" example="3">%d</xliff:g>/10 questions correct</string>
+
+    <string name="evaluate">Evaluate</string>
+</resources>
